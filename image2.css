@@ -1,0 +1,84 @@
+
+.boderc1 {
+    padding-top: 50px;
+    margin: 0px;
+    
+}
+.boderc1 a{
+    font-family: 'roboto', sans-serif;
+    font-weight: 800 ;
+    font-size: 35px;
+    text-decoration: none;
+    padding-left: 15px;
+}
+.boderc1 h1{
+    padding-top: 90px;
+    font-family: 'roboto', sans-serif;
+    font-weight: 800 ;
+    font-size: 35px;
+    color: firebrick;
+    text-align: left;
+    padding: 0 20px
+
+}
+.boderc1 p{
+width: 850px;
+font-family: 'roboto', sans-serif;
+color: rgb(28, 36, 39);
+line-height: 1.5;
+font-size: 16px;
+padding: 0 20px   ;}
+
+.bordercollie {
+    padding: 0 20px ;
+    width: 850px;
+    height: 100%;
+   
+}
+.bordercollie p {
+font-family: 'roboto', sans-serif;
+color: rgb(28, 36, 39);
+line-height: 1.5;
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+}
+.anhchobor img{
+    width: 850px;
+    height: 100%;
+    border-radius: 15px;
+    box-shadow: rgb(28, 250, 239) 3px 0  3px 3px;
+
+}
+.anhchobor img:hover{
+    border-radius: 25%;}
+
+.mota h2{
+    font-family: 'roboto', sans-serif;
+    color: rgb(47, 79, 90);
+    line-height: 1.5;
+    
+
+}
+.mota p{
+font-family: 'roboto', sans-serif;
+color: rgb(28, 36, 39);
+line-height: 1.5;
+font-size: 16px;
+font-weight: 400;
+text-align: justify;
+}
+.trangchu a{
+    font-family: 'roboto', sans-serif;
+    color: rgb(107, 4, 4);
+    text-decoration: none;
+    padding-left: 15px;
+    font-size: 25px;
+    font-weight: 500;
+    padding: 15px 15px;
+
+}
+.trangchu {
+    margin-top: 30px;
+}
+
