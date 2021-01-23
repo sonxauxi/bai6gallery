@@ -100,8 +100,8 @@
     
     .anhcho :hover {
         width: 350px ;
-        height: 220px;
-        transform: scale(1);
+        height: 200px;
+        transform: scale(1.1);
         transition: all 0.5s;
     }
     .anhcho1 { 
